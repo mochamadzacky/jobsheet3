@@ -10,7 +10,6 @@ public class Segitiga20 {
         alas = sc20.nextInt();
         System.out.println("Masukkan tinggi: ");
         tinggi = sc20.nextInt();
-
         luas = alas*tinggi/2;
 
         System.out.println("Luas segitiga: " + luas); 
